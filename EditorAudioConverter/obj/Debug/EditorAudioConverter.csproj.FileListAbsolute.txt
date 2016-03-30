@@ -1,0 +1,8 @@
+d:\documents\visual studio 2015\Projects\EditorAudioConverter\EditorAudioConverter\bin\Debug\EditorAudioConverter.exe.config
+d:\documents\visual studio 2015\Projects\EditorAudioConverter\EditorAudioConverter\bin\Debug\EditorAudioConverter.exe
+d:\documents\visual studio 2015\Projects\EditorAudioConverter\EditorAudioConverter\bin\Debug\EditorAudioConverter.pdb
+d:\documents\visual studio 2015\Projects\EditorAudioConverter\EditorAudioConverter\bin\Debug\NAudio.dll
+d:\documents\visual studio 2015\Projects\EditorAudioConverter\EditorAudioConverter\bin\Debug\NAudio.xml
+d:\documents\visual studio 2015\Projects\EditorAudioConverter\EditorAudioConverter\obj\Debug\EditorAudioConverter.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\EditorAudioConverter\EditorAudioConverter\obj\Debug\EditorAudioConverter.exe
+d:\documents\visual studio 2015\Projects\EditorAudioConverter\EditorAudioConverter\obj\Debug\EditorAudioConverter.pdb
